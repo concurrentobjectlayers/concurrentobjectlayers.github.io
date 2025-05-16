@@ -1,15 +1,10 @@
-# Nerfies
+# CObL
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+This is the repository that contains source code for the [website for Concurrent Object Layers (CObL)](https://concurrentobjectlayers.github.io).
 
-If you find Nerfies useful for your work please cite:
+If you find CObL useful for your work please cite:
 ```
-@article{park2021nerfies
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Nerfies: Deformable Neural Radiance Fields},
-  journal   = {ICCV},
-  year      = {2021},
-}
+To be added!
 ```
 
 # Website License
